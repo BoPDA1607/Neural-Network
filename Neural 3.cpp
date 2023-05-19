@@ -86,7 +86,7 @@ void shuffle(int *array, size_t n) {
 
 int main() { 
 
-freopen("D:\\input.txt" , "r", stdin);
+freopen("input.txt" , "r", stdin);
 	const double lr = 0.1f;
 
   
